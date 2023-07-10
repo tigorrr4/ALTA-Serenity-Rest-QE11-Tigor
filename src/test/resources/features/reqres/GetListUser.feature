@@ -1,4 +1,4 @@
-Feature: API Automation Testing ALTA QE Batch 11
+Feature:GET List User - API Automation Testing ALTA QE Batch 11
 
 
   @Latihan @PositiveCase

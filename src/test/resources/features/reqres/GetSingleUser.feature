@@ -1,4 +1,4 @@
-Feature:Get list single user with valid parameter id
+Feature:GET Single User - API Automation Testing ALTA QE Batch 11
 
   @Latihan
 

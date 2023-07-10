@@ -1,4 +1,4 @@
-Feature:Get Single Resource with Valid ID
+Feature: GET Single Resources - API Automation Testing ALTA QE Batch 11
 
   @Tugas
   Scenario Outline: Get Single Resource with Valid ID

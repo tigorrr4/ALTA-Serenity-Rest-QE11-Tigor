@@ -1,4 +1,4 @@
-Feature:Post create new user with valid JSON
+Feature:POST Create New User - API Automation Testing ALTA QE Batch 11
 
   @Latihan @PositiveCase
   Scenario: Post create new user with valid JSON

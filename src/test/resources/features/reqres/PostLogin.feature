@@ -1,4 +1,4 @@
-Feature:Post Login Successful with valid data json
+Feature:POST Login - API Automation Testing ALTA QE Batch 11
 
 
   @Tugas @PositiveCase @Post_Login_Successful

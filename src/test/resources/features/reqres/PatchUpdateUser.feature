@@ -1,4 +1,4 @@
-Feature: Update User
+Feature:  PATCH Update User - API Automation Testing ALTA QE Batch 11
 
   @Tugas @PositiveCase
   Scenario: Patch user data with valid value json

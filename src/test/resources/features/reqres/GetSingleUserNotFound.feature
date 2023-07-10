@@ -1,4 +1,4 @@
-Feature:Get list single user with invalid id
+Feature:GET Single User Not Found - API Automation Testing ALTA QE Batch 11
 
 
   @Tugas  @NegativeCase

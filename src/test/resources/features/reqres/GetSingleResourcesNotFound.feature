@@ -1,4 +1,4 @@
-Feature:Get Single Resource Not Found with Invalid Id
+Feature: GET Single Resources Not Found - API Automation Testing ALTA QE Batch 11
 
 
  @Tugas  @NegativeCase

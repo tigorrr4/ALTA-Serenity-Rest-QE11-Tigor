@@ -1,6 +1,4 @@
-Feature:Post Register User Unsuccessful with Invalid Email Json
-
-
+Feature:POST Register - API Automation Testing ALTA QE Batch 11
 
   @Tugas @NegativeCase @Post_Register_Unsuccessfull
   Scenario: Post Register User Unsuccessful with Invalid Email Json

@@ -1,4 +1,4 @@
-#Feature: API Automation Testing ALTA QE Batch 111
+#Feature:  GET List User - API Automation Testing ALTA QE Batch 11
 ##  @Latihan
 ##  Scenario Outline: Get list user with valid parameter page
 ##    Given Get list user with parameter page <page>

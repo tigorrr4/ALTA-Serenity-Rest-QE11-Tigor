@@ -1,4 +1,4 @@
-Feature:Put update user with valid parameter id and json
+Feature:PUT Update User - API Automation Testing ALTA QE Batch 11
 
   @Latihan
   Scenario Outline: Put update user with valid data json
